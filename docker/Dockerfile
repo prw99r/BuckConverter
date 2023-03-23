@@ -17,4 +17,4 @@ RUN pip install -r requirements.txt
 COPY . .
 
 # Specify the command to run on container start
-CMD [ "jupyter notebook", "./BuckConverter.py" ]
+CMD [ "python", "./BuckConverter.py" ]
