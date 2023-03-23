@@ -1,2 +1,1 @@
-# BuckConverter
-Jupyter Notebook Example for Buck Converter
+# devfile-sample-python-basic
